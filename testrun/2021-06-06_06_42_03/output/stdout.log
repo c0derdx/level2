@@ -1,0 +1,12 @@
+==============================================================================
+Tasks :: Template robot main suite.                                           
+==============================================================================
+Order robots from RobotSpareBin Industries Inc                        ['Input', 'Output', 'Temp']
+| FAIL |
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\ProgramData\\Temp\\rcf24022\\AppData\\Local\\Temp\\125_9215_967624500_1\\workarea60bc20e3\\Output\\output.xml'
+------------------------------------------------------------------------------
+Tasks :: Template robot main suite.                                   | FAIL |
+1 task, 0 passed, 1 failed
+==============================================================================
+Output:  C:\ProgramData\Temp\rcf24022\AppData\Local\Temp\125_9215_967624500_1\workarea60bc20e3\output\output.xml
+Log:     C:\ProgramData\Temp\rcf24022\AppData\Local\Temp\125_9215_967624500_1\workarea60bc20e3\output\log.html
